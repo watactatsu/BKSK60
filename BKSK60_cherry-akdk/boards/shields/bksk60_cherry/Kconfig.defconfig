@@ -1,7 +1,0 @@
-
-if SHIELD_BKSK60_CHERRY
-
-config ZMK_KEYBOARD_NAME
-    default "bksk60_cherry"
-
-endif
